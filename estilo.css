@@ -107,6 +107,12 @@ a:link, a:visited{
     -webkit-transform: scale(1.1);
 }
 
+.imagem4{
+    border: 5px solid #f49e0a;
+    height: 700px;
+    margin: 20px 50px;
+}
+
 /* Responsividade  */
 
 @media (max-width: 1280px) { 
